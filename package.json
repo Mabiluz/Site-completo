@@ -1,0 +1,19 @@
+{
+  "name": "site-completo",
+  "version": "1.0.0",
+  "description": "Projeto revisão",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "teste",
+    "aula"
+  ],
+  "author": "Amábile",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
